@@ -14,7 +14,7 @@
 + ShuffleNetv1：逐点组卷积核(group pointwise convolution)，类瓶颈(bottleneck-like)，通道重排(channel shuﬄe)，ShuffleNet 单元
 + ShuffleNetv2 论文：通道分割(channel split)，ShuffleNetv2 单元
 
-![Image text](https://raw.githubusercontent.com/Bugdragon/ShuffleNet_v2_PyTorch/ShuffleNetv2.png)
+![Image text](https://raw.githubusercontent.com/Bugdragon/ShuffleNet_v2_PyTorch/master/ShuffleNetv2.png)
 (a)ShuﬄeNet 基本单元；(b) 用于空间下采样 (2×) 的 ShuffleNet 单元；(c) ShuﬄeNet V2 的基本单元；(d) 用于空间下采样 (2×) 的 ShuffleNet V2 单元。DWConv：深度卷积 (depthwise convolution)。GConv：组卷积 (group convolution)。
 
 ### 版本条件
