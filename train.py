@@ -6,7 +6,7 @@ import torch.optim as optim
 import torch.backends.cudnn as cudnn
 from torch.autograd import Variable
 
-from ShuffleNetV2 import ShuffleNetV2
+from ShuffleNetv2 import ShuffleNetV2
 from datagen import MyDataset
 
 #set path
